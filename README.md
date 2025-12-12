@@ -31,8 +31,6 @@ A full-stack social media application built with React, Redux, Node.js, Express,
 - **Express** — Web framework
 - **MongoDB** — Database
 - **Mongoose** — ODM (Object Data Modeling)
-- **CORS** — Cross-Origin Resource Sharing
-- **Body Parser** — Request parsing
 
 ## Project Structure
 
