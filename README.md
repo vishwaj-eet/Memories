@@ -99,12 +99,6 @@ Social_media/
    PORT=5000
    ```
 
-   Or use the default local MongoDB:
-
-   ```
-   CONNECTION_URL=mongodb://127.0.0.1:27017/social_media
-   PORT=5000
-   ```
 
 ## Running the Application
 
